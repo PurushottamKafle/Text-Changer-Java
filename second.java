@@ -13,7 +13,7 @@ private JTextField x;
 private JCheckBox y;
 private JCheckBox z;
 
-// now creating contractors
+// now creating 
 second(){
 	super("Text Managers");
 	x = new JTextField("Purushottam Kafle - I am Kidpk", 30);
